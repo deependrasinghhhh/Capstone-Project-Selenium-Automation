@@ -1,0 +1,19 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ & VS Code ###
+.idea/
+.vscode/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Logs & Temp ###
+*.log
+*.dump
+powershell.cmd
+mvn.cmd
+mvn.bat
